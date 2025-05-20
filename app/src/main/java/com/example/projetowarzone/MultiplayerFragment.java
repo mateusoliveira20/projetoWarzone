@@ -61,4 +61,5 @@ public class MultiplayerFragment extends Fragment {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_multiplayer, container, false);
     }
+
 }

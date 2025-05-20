@@ -2,5 +2,8 @@
     <string name="app_name">projetoWarzone</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="metaWarzone">Top Meta Warzone</string>
+    <string name="textview">Destaques</string>
+    <string name="fuzil_assalto">Fuzil de Assalto</string>
+    <string name="fuzil_precisao">Fuzil de Precisão</string>
+    <string name="smt">SMT</string>
 </resources>
